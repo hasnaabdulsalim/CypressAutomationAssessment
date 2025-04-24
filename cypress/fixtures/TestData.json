@@ -1,0 +1,14 @@
+{
+  "name": "Using fixtures to represent data",
+  "FirstName": "FirstName",
+  "LastName": "LastName",
+  "EmailAddress": "cypresstestki5d82@example.com",
+  "email": "cypresstest600@gmail.com",
+  "password": "Test@600",
+  "ProductNameOne": "Ingrid Running Jacket",
+  "ProductNameTwo": "Aero Daily Fitness Tee",
+  "StreetAddress": "TestStreet",
+  "City": "TestCity",
+  "PostalCode": "12345",
+  "PhoneNumber": "50000009"
+}

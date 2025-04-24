@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress run --env allure=true",
-    "test:repor": "npx allure generate allure-results --clean -o allure-reports",
+    "test:report": "npx allure generate allure-results --clean -o allure-reports",
     "open": "cypress open"
   },
   "author": "Hasna",
